@@ -5,6 +5,6 @@ Exercice réalisé dans le cadre de la formation ["Web Développeur"](https://op
 
 ## Visualisation - Demo
 
-[Visualisz le site BOOKI](https://devloben.github.io/Dandonneau_Benoit_2_Booki_022023/)
+[Visualisez le site BOOKI](https://devloben.github.io/Dandonneau_Benoit_2_Booki_022023/)
 
 ![Copie écran de la page d'accueil du site BOOKI](https://devloben.github.io/Dandonneau_Benoit_2_Booki_022023//images/copie_ecran_accueil_booki.png)
